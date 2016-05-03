@@ -1,3 +1,4 @@
 Today News
 
 Lear GIT commands
+Fixed Bug 1
