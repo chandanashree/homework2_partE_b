@@ -1,3 +1,4 @@
 Major Feature for next release
 GIT Commands - create branch
 Start of release brach for 1.0
+Added new functinality
