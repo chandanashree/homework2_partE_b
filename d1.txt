@@ -1,2 +1,7 @@
 Welcome to dev branch
+
 Modified by Feature branch 1
+
+Modfied by Feature Branch 2
+Add new funtionality by Feature branch 2
+

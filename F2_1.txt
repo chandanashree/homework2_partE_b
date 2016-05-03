@@ -1,0 +1,2 @@
+Welcome to Feature branch 2
+Added new functionality
