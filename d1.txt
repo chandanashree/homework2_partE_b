@@ -1,2 +1,3 @@
 Welcome to dev branch
 Modfied by Feature Branch 2
+Add new funtionality by Feature branch 2
