@@ -2,4 +2,4 @@ Hello,
 
 Working on homework 2, GIT commands
 Severe bug Fixed for production hotfix 0.2
-Bug fixes 1
+Bug fixes 1, 2 3 4
